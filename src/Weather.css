@@ -26,10 +26,9 @@
 }
 
 .Weather canvas {
-    height: 64px;
-    width: 64px;
     display: inline-block;
-    margin-right: 10px;
+    margin-right: 5px;
+    margin-top: 5px;
 }
 .Weather .temperature {
     color: black;
