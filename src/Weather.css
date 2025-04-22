@@ -37,6 +37,10 @@
     line-height: 64px;
 }
 
+.float-left {
+    padding: 5px;
+}
+
 .Weather .unit {
     font-size: 16px;
     font-weight: 400;
